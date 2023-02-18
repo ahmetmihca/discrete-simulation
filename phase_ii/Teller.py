@@ -81,8 +81,3 @@ class Teller():
 
     def getQueue(self):
         return self.queue.getQueue()
-
-    
-    
-
-
