@@ -40,6 +40,3 @@ class Teller ():
 
     def increaseServingTime(self):
         self.totalServingTime += self.customer.getServingTime()
-    
-
-
