@@ -120,6 +120,3 @@ for k in categories:
     categories[k] = categories[k]/categories_frequency[k]
 for k,v in categories.items():
     print(k,v)
-    
-
-
